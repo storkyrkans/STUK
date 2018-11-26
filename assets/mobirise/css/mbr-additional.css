@@ -1514,8 +1514,11 @@ body {
   color: #efefef;
 }
 .cid-raqAVHm7bl .mbr-timeline-title DIV {
-  color: #82786e;
-  text-align: center;
+  color: #232323;
+  text-align: left;
+}
+.cid-raqAVHm7bl .mbr-timeline-title {
+  text-align: left;
 }
 .cid-rarpVQzp4c {
   padding-top: 90px;
