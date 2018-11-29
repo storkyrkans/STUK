@@ -48,10 +48,12 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 3,
-    "versionPublish": "4.8.7",
+    "versionPublish": "4.8.8",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
